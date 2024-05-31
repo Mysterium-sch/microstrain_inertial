@@ -21,7 +21,6 @@ def generate_launch_description():
         'configure': 'true',
         'activate': 'true',
         'params_file': _CV7_PARAMS_FILE,
-        'namespace': '/',
       }.items()
     ),
 
